@@ -70,3 +70,4 @@ The p value is a very small number of 0.000236.
 par(mar = c(3, 17, 2, 2))
 plot(TukeyHSD(model1, conf.level =0.98), las=2)
 ```
+The only differences in confidence level are lt hgh school and graduate school, and high school and graduate because their lines don't touch 0.
