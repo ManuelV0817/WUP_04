@@ -61,6 +61,7 @@ The Q1 of the graduate school is higher than for an other school and the Q3 for 
 model1 <- aov(WORDSUM~DEGREE,data=GSScsv)
 summary.aov(model1)
 ```
+The p value is a very small number of 0.000236.
 
 # Discussion and Conclusion
 
