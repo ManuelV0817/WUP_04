@@ -43,6 +43,7 @@ basicCN + geom_boxplot()
 ```
 
 In the plot the LT high school is under the Junior college and bachelor.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
@@ -51,6 +52,7 @@ In the plot the LT high school is under the Junior college and bachelor.
 favstats(WORDSUM~DEGREE,data=GSScsv)
 ```
 
+The Q1 of the graduate school is higher than for an other school and the Q3 for the lt highschool is still lower than the graduate school Q1.
 
 ## Inferential Results
 
